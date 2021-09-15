@@ -4,7 +4,9 @@
             <th>IMAGEN</th>
             <th>MARCA</th>
             <th>MODELO</th>
-            <th>AGHGKJGDSLKFG</th>
+            <th>DESARROLLO WEB</th>
+            <th>DESARROLLO WEB</th>
+            <th>DESARROLLO WEB</th>
         </tr>
     </thead>
     <tbody>
