@@ -4,7 +4,7 @@
             <th>IMAGEN</th>
             <th>MARCA</th>
             <th>MODELO</th>
-            <th>PRECIO</th>
+            <th>asdasdasdasd</th>
         </tr>
     </thead>
     <tbody>
