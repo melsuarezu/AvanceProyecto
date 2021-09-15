@@ -4,7 +4,7 @@
             <th>IMAGEN</th>
             <th>MARCA</th>
             <th>MODELO</th>
-            <th>CHAOOO</th>
+            <th>DESARROLLO</th>
         </tr>
     </thead>
     <tbody>
