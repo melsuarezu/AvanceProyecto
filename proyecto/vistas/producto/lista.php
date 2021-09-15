@@ -4,7 +4,7 @@
             <th>IMAGEN</th>
             <th>MARCA</th>
             <th>MODELO</th>
-            <th>HOLAAAAA</th>
+            <th>AGHGKJGDSLKFG</th>
         </tr>
     </thead>
     <tbody>
